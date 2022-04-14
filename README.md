@@ -1,4 +1,4 @@
-# NoteApp
+<h1><img src="app/src/main/res/mipmap-hdpi/ic_launcher.png" alt="NoteApp" width="26"/> NoteApp</h1>
 
 ![Code Analysis & Unit Tests](https://github.com/karacca/NoteApp/workflows/Code%20Analysis%20%26%20Unit%20Tests/badge.svg) 
 ![License](https://img.shields.io/github/license/karacca/NoteApp) 
