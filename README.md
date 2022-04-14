@@ -8,4 +8,4 @@ A note taking app illustrating Android best practices with Jetpack Compose.
 
 ## Screenshots
 
-<img src="screenshots/home.png" alt="Home" width="300"/> <img src="screenshots/selection_dark.png" alt="Selection" width="300"/> <img src="screenshots/detail.png" alt="Selection" width="300"/>
+<img src="screenshots/home.png" alt="Home" width="270"/> <img src="screenshots/selection_dark.png" alt="Selection" width="270"/> <img src="screenshots/detail.png" alt="Selection" width="270"/>
