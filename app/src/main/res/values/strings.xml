@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="title_home_loading">Loading…</string>
+    <string name="content_description">Dummy Content Description</string>
+    <string name="title_home">You have %1$s notes!</string>
+    <string name="title_home_empty">You don\'t have any notes!</string>
+    <string name="title_home_selection">%1$s notes selected</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="hint_note_title">Title</string>
+    <string name="hint_note_description">Description</string>
+    <string name="hint_note_image_url">Image URL</string>
+    <string name="action_save_note">Save Note</string>
+    <string name="long_press_message">You can delete messages by long pressing</string>
+</resources>

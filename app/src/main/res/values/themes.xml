@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NoteApp" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:statusBarColor">@color/status_bar</item>
+    </style>
+</resources>
