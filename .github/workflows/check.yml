@@ -23,11 +23,3 @@ jobs:
 
     - name: Unit Tests
       run: ./gradlew test
-
-    - name: UI Tests
-      uses: reactivecircus/android-emulator-runner@v2
-      with:
-        api-level: 29
-        script: ./gradlew app:connectedCheck
-
-      
