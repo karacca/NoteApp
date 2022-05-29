@@ -10,6 +10,15 @@ A note taking app illustrating Android best practices with Jetpack Compose.
 
 <img src="screenshots/home.png" alt="Home" width="270"/> <img src="screenshots/selection_dark.png" alt="Selection" width="270"/> <img src="screenshots/detail.png" alt="Selection" width="270"/>
 
+## Tech stack
+
+* Written in [Kotlin](https://kotlinlang.org/)
+* Built entirely using [Jetpack Compose](https://developer.android.com/jetpack/compose)
+* Dependency injection done by [Dagger Hilt](https://dagger.dev/hilt/)
+* [Room](https://developer.android.com/training/data-storage/room) for persistence
+* [Coroutines](https://kotlinlang.org/docs/coroutines-overview.html) with [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/-flow/) for asynchronous operations
+* Tests with [JUnit](https://developer.android.com/training/testing/local-tests)
+
 ## License
 
     Copyright 2022 Omer Karaca
